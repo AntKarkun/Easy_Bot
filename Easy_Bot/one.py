@@ -1,3 +1,4 @@
+# Эта библиотека написана к файлу bot_Python.py Завьяловым Даниилом
 import os
 import psutil
 import sys
