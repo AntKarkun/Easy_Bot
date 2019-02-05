@@ -1,4 +1,4 @@
-﻿# import math
+# Эта программа написана Завьяловым Даниилом
 # НАЧАЛО
 from one import robot, history_f
 
